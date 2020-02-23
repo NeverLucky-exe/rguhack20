@@ -160,7 +160,7 @@ function setup() {
 
   resetSketch();
 
-  let txt = createP('bitWave');
+  let txt = createP('SouAnalyze');
   txt.position(200, 5);
   txt.style("font-family", "monospace");
   txt.style("background-color", "#FF0000");
